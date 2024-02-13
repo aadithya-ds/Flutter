@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+
+Add connectivity_plus 5.0.2 dependency
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
